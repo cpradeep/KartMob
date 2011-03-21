@@ -10,6 +10,6 @@ Add the public key displayed to the repository forked in GitHub
 
 Add the private key to the Paegent
 
-"Git Clone" the repository that you are supposed to work with.
+"Git Clone" the repository that you are supposed to work with. Remember to use the private key that was generated using puttyGen.
 
 Folder by the name of the project should be created.
